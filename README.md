@@ -24,7 +24,7 @@ Install (with flag --system, --sys-prefix or --user)
 
 Enable it
 
-    $ jupyter nbextension enable tab-autocomplete-cycle
+    $ jupyter nbextension enable tab-autocomplete-cycle/main
 
 Check it works
 
